@@ -19,26 +19,26 @@ The **Citizen App** allows users to:
 
 ### 📸 Screenshots
 #### Application Page
-<img src="https://github.com/user-attachments/assets/fdad79e2-cf1c-4e1b-90b4-a1ed76d5e001" width="300"/>
+<img src="https://github.com/user-attachments/assets/fdad79e2-cf1c-4e1b-90b4-a1ed76d5e001" width="200"/>
 
 #### Reporting Steps
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/af4957d6-b0b0-4200-93b0-aca1a161692d" width="300"/>
-  <img src="https://github.com/user-attachments/assets/4bfacefe-885c-4c58-ae6f-f3be2e68b793" width="300"/>
-  <img src="https://github.com/user-attachments/assets/133dd044-30dc-4e7c-b3ab-3d29f9f53633" width="300"/>
+  <img src="https://github.com/user-attachments/assets/af4957d6-b0b0-4200-93b0-aca1a161692d" width="200"/>
+  <img src="https://github.com/user-attachments/assets/4bfacefe-885c-4c58-ae6f-f3be2e68b793" width="200"/>
+  <img src="https://github.com/user-attachments/assets/133dd044-30dc-4e7c-b3ab-3d29f9f53633" width="200"/>
 </p>
 
 #### Report Details
-<img src="https://github.com/user-attachments/assets/acca0132-39f8-4b2e-a152-bffe4b260abf" width="300"/>
+<img src="https://github.com/user-attachments/assets/acca0132-39f8-4b2e-a152-bffe4b260abf" width="200"/>
 
 #### My Reports
-<img src="https://github.com/user-attachments/assets/5131c111-e922-4246-a714-e715988765ba" width="300"/>
+<img src="https://github.com/user-attachments/assets/5131c111-e922-4246-a714-e715988765ba" width="200"/>
 
 #### Restricted Area Error
-<img src="https://github.com/user-attachments/assets/6d214b61-a3ea-4ce1-9dad-83b8586c48d4" width="300"/>
+<img src="https://github.com/user-attachments/assets/6d214b61-a3ea-4ce1-9dad-83b8586c48d4" width="200"/>
 
 #### Terms and Conditions
-<img src="https://github.com/user-attachments/assets/21bd29d3-647a-4447-8ca5-c1de0c1c49e7" width="300"/>
+<img src="https://github.com/user-attachments/assets/21bd29d3-647a-4447-8ca5-c1de0c1c49e7" width="200"/>
 
 ---
 
