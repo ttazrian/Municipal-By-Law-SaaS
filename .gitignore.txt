@@ -1,0 +1,30 @@
+# Node.js / React / Expo
+**/node_modules/
+**/.expo/
+**/.expo-shared/
+**/npm-debug.log
+**/yarn-debug.log
+**/yarn-error.log
+
+# React Native
+**/ios/
+**/android/
+**/*.xcworkspace
+**/*.xcodeproj
+**/*.gradle
+**/.idea/
+**/.vs/
+
+# Firebase / Env
+**/firebase.json
+**/firestore.rules
+**/firestore.indexes.json
+**/.env.local
+**/.env
+**/.env.*
+
+# Python (if backend scripts exist in citizen-app)
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/.Python
