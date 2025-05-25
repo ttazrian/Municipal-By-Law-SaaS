@@ -24,21 +24,21 @@ The **Citizen App** allows users to:
 #### Reporting Steps
 <p float="left">
   <img src="https://github.com/user-attachments/assets/af4957d6-b0b0-4200-93b0-aca1a161692d" width="200"/>
-  <img src="https://github.com/user-attachments/assets/4bfacefe-885c-4c58-ae6f-f3be2e68b793" width="200"/>
+  <img src="https://github.com/user-attachments/assets/4bfacefe-885c-4c58-ae6f-f3be2e68b793" width="200" height=435"/>
   <img src="https://github.com/user-attachments/assets/133dd044-30dc-4e7c-b3ab-3d29f9f53633" width="200"/>
 </p>
 
-#### My Reports and Report Details
+#### My Reports | Report Details
 <p float="left">
 <img src="https://github.com/user-attachments/assets/acca0132-39f8-4b2e-a152-bffe4b260abf" width="200"/>
 <img src="https://github.com/user-attachments/assets/5131c111-e922-4246-a714-e715988765ba" width="200"/>
 </p>
 
-#### Restricted Area Error
+#### Restricted Area Error | Terms and Conditions
+<p float="left">
 <img src="https://github.com/user-attachments/assets/6d214b61-a3ea-4ce1-9dad-83b8586c48d4" width="200"/>
-
-#### Terms and Conditions
 <img src="https://github.com/user-attachments/assets/21bd29d3-647a-4447-8ca5-c1de0c1c49e7" width="200"/>
+</p>
 
 ---
 
@@ -55,10 +55,15 @@ A centralized web portal for administrators and officers to manage by-law report
 
 ### 📸 Screenshots
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/376a7dfb-a850-48db-aadd-f7a79e725f4b" width="300"/>
-  <img src="https://github.com/user-attachments/assets/db4a01a3-2515-49e7-ae98-31fc50b933a7" width="300"/>
-  <img src="https://github.com/user-attachments/assets/7030b7c8-af6b-464c-80ef-cd6495a98573" width="300"/>
-  <img src="https://github.com/user-attachments/assets/b7a5626a-342e-416e-bd41-6391905179b7" width="300"/>
+  <img src="https://github.com/user-attachments/assets/376a7dfb-a850-48db-aadd-f7a79e725f4b" width="500"/>
+  <img src="https://github.com/user-attachments/assets/db4a01a3-2515-49e7-ae98-31fc50b933a7" width="500"/>
+
+</p>
+
+<p float="left">
+
+  <img src="https://github.com/user-attachments/assets/7030b7c8-af6b-464c-80ef-cd6495a98573" width="500"/>
+  <img src="https://github.com/user-attachments/assets/b7a5626a-342e-416e-bd41-6391905179b7" width="500"/>
 </p>
 
 ---
