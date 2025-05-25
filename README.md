@@ -28,11 +28,11 @@ The **Citizen App** allows users to:
   <img src="https://github.com/user-attachments/assets/133dd044-30dc-4e7c-b3ab-3d29f9f53633" width="200"/>
 </p>
 
-#### Report Details
+#### My Reports and Report Details
+<p float="left">
 <img src="https://github.com/user-attachments/assets/acca0132-39f8-4b2e-a152-bffe4b260abf" width="200"/>
-
-#### My Reports
 <img src="https://github.com/user-attachments/assets/5131c111-e922-4246-a714-e715988765ba" width="200"/>
+</p>
 
 #### Restricted Area Error
 <img src="https://github.com/user-attachments/assets/6d214b61-a3ea-4ce1-9dad-83b8586c48d4" width="200"/>
