@@ -28,7 +28,7 @@ The **Citizen App** allows users to:
   <img src="https://github.com/user-attachments/assets/133dd044-30dc-4e7c-b3ab-3d29f9f53633" width="200"/>
 </p>
 
-#### My Reports | Report Details
+####  Report Details | My Reports 
 <p float="left">
 <img src="https://github.com/user-attachments/assets/acca0132-39f8-4b2e-a152-bffe4b260abf" width="200"/>
 <img src="https://github.com/user-attachments/assets/5131c111-e922-4246-a714-e715988765ba" width="200"/>
