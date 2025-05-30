@@ -4,7 +4,7 @@ A comprehensive system for municipal by-law management, enabling citizens, offic
 
 ---
 
-## 📲 Citizen Mobile App
+## Citizen Mobile App
 
 The **Citizen App** allows users to:
 - Register and submit applications for portal access.
@@ -17,7 +17,7 @@ The **Citizen App** allows users to:
 - **Restricted Area Validation** (Geofencing to enforce jurisdiction)
 - **Terms and Conditions Agreement**
 
-### 📸 Screenshots
+### Screenshots
 #### Application Page
 <img src="https://github.com/user-attachments/assets/fdad79e2-cf1c-4e1b-90b4-a1ed76d5e001" width="200"/>
 
@@ -42,7 +42,7 @@ The **Citizen App** allows users to:
 
 ---
 
-## 🖥️ Management Dashboard
+## Management Dashboard
 
 A centralized web portal for administrators and officers to manage by-law reports, user access, and applications.
 
@@ -53,7 +53,7 @@ A centralized web portal for administrators and officers to manage by-law report
 - **Application Management**: Approve, suspend, or reject applications.
 - **Officer Dashboard**: View assigned reports and update statuses.
 
-### 📸 Screenshots
+### Screenshots
 <p float="left">
   <img src="https://github.com/user-attachments/assets/376a7dfb-a850-48db-aadd-f7a79e725f4b" width="500"/>
   <img src="https://github.com/user-attachments/assets/db4a01a3-2515-49e7-ae98-31fc50b933a7" width="500"/>
@@ -68,19 +68,19 @@ A centralized web portal for administrators and officers to manage by-law report
 
 ---
 
-## 🌐 Public By-Law Portal
+## Public By-Law Portal
 
 A public-facing web portal for citizens to:
 - Apply for access to the by-law reporting system.
 - Understand portal benefits: citizen reports, transparency, and access.
 - Access the mobile app for report submission.
 
-### 📸 Screenshot
+### Screenshot
 <img src="https://github.com/user-attachments/assets/7af6a812-cb6a-499d-80cc-24417d415767" width="600"/>
 
 ---
 
-## ⚙️ Backend Search and Integration
+## Backend Search and Integration
 
 This project is complemented by a **Backend Search Engine** ([bylaw-backend](https://github.com/ttazrian/bylaw-backend)) for advanced search and data retrieval:
 - Enables officers and administrators to search by-law reports using filters.
@@ -88,11 +88,11 @@ This project is complemented by a **Backend Search Engine** ([bylaw-backend](htt
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 <img src="https://github.com/user-attachments/assets/f1a2618b-0b32-4710-bffc-2aaf674d86f4" width="600"/>
 
 ---
 
-## 🙌 Acknowledgments
+## Acknowledgments
 This project was originally developed as part of a Capstone Project focusing on community by-law reporting and management.
